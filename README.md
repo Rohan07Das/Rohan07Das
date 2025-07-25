@@ -21,6 +21,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan07das&show_icons=true&locale=en" alt="rohan07das" /></p>
+<table>
+  <tr>
+    <!-- GitHub Stats -->
+    <td valign="top" width="50%">
+      <h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rohan07Das&show_icons=true&theme=default" width="100%" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan07Das&theme=default" width="100%" />
+    </td>
+    <!-- Project Effort Timeline with SVG Bars -->
+    <td valign="top" width="50%">
+      <h3>⏱️ Project Effort Timeline</h3>
+ 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan07das&" alt="rohan07das" /></p>
+**🔧 Insulator Detection (YOLOv4 + SqueezeNet)**  
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██████ 85% — ~2 Weeks
+
+**🍬 Candy Detection (YOLOv4 + SqueezeNet)**  
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██████████████ 75% — ~1.5 Weeks
+    </td>
+  </tr>
+</table>
+

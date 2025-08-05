@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI/ML using PYTHON**
 
-- 🌱 I’m currently learning **AI/ML ,FLUTTER ,UI/UX**
+- 🌱 I’m currently learning **AI/ML, FLUTTER, UI/UX**
 
 - 💬 Ask me about **MATLAB and Designs**
 

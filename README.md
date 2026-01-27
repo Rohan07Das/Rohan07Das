@@ -38,7 +38,7 @@
 **🔧 Insulator Detection (YOLOv4 + SqueezeNet)**  
 ░░░░░░░░░░░░░░░░░░░░░████ 90% ~2 Weeks
 
-**🚗 Smart Vehicle Parking System Using Arduino **  
+**🚗 Smart Vehicle Parking System Using Arduino**  
 ░░░░░░░░░░░░░░░░░░░██████ 85% ~1 Weeks
     </td>
   </tr>

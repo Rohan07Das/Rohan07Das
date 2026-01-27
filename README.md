@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rdas10412@gmail.com**
 
-- 📄 Know about my experiences [Ongoing](Ongoing)
+- 📄 Resume: [View / Download](https://github.com/Rohan07Das/resume/blob/main/Rohan_Lal_Das.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

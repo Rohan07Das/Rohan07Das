@@ -38,7 +38,7 @@
 **🔧 Insulator Detection (YOLOv4 + SqueezeNet)**  
 ░░░░░░░░░░░░░░░░░░░░░████ 90% ~2 Weeks
 
-**🍬 Candy Detection (YOLOv4 + SqueezeNet)**  
+**🚗 Smart Vehicle Parking System Using Arduino **  
 ░░░░░░░░░░░░░░░░░░░██████ 85% ~1 Weeks
     </td>
   </tr>

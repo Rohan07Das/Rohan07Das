@@ -25,9 +25,7 @@
   <tr>
     <!-- GitHub Stats -->
     <td valign="top" width="50%">
-      <h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rohan07Das&show_icons=true&theme=default" width="100%" />
-      <br><br>
+     <br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan07Das&theme=default" width="100%" />
     </td>
     <!-- Project Effort Timeline with SVG Bars -->

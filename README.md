@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rdas10412@gmail.com**
 
-- 📄 Resume: [View/Download](https://drive.google.com/file/d/1vgyY5gGyLLdPQi-V7M3sAKGnaM3ny6TV/view?usp=sharing)
+- 📄 Resume: [View/Download](hhttps://drive.google.com/file/d/1vgyY5gGyLLdPQi-V7M3sAKGnaM3ny6TV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

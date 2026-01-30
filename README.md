@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ROHAN😎</h1>
+<h1 align="center">Hi there👋, I'm ROHAN😎</h1>
 <h3 align="center">Exploring the Intersection of AI, Design, and IOT</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rdas10412@gmail.com**
 
-- 📄 Resume: [View/Download](https://github.com/Rohan07Das/resume/blob/main/Rohan_Lal_Das.pdf)
+- 📄 Resume: [View/Download](https://drive.google.com/drive/folders/1BkwVTHGeTcMCGHdL9dvnDeEO0SExgs3G?lfhs=2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

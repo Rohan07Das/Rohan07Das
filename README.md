@@ -17,6 +17,14 @@
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohan-lal-das-87b1332a5" target="blank"><img align="center" src="https://skills.syvixor.com/api/icons?perline=7&i=linkedin" alt="https://www.linkedin.com/in/rohan-lal-das-87b1332a5" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1475742442836983902" target="_blank">
+  <img align="center"
+       src="https://skills.syvixor.com/api/icons?perline=7&i=discord"
+       alt="Discord"
+       height="30"
+       width="40" />
+</a>
+
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>

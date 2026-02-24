@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there👋, I'm ROHAN😎</h1>
 <h3 align="center">Exploring the Intersection of AI, Design, and IOT</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 
 - 🔭 Currently working on **AI / ML projects using Python (Computer Vision & Deep Learning)**

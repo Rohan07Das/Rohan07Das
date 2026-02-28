@@ -12,7 +12,7 @@
 - 🧠 Strong foundation in **MATLAB, Embedded Systems, and IoT-based automation**
 - 🎨 Passionate about combining **engineering precision with creative design**
 - 📫 Reach me at **rdas10412@gmail.com**
-- 📄 Resume: [View / Download](https://drive.google.com/file/d/1vgyY5gGyLLdPQi-V7M3sAKGnaM3ny6TV/preview)
+- 📄 Resume: [View / Download](https://drive.google.com/file/d/1vgyY5gGyLLdPQi-V7M3sAKGnaM3ny6TV/view?usp=sharing)
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">

@@ -8,7 +8,7 @@
 
 
 - 🔭 Currently working on **AI / ML projects using Python (Computer Vision & Deep Learning)**
-- 🌱 Actively exploring **AI/ML, Flutter, and UI/UX Design**
+- 🌱 Actively exploring **AI/ML and UI/UX Design**
 - 🧠 Strong foundation in **MATLAB, Embedded Systems, and IoT-based automation**
 - 🎨 Passionate about combining **engineering precision with creative design**
 - 📫 Reach me at **rdas10412@gmail.com**

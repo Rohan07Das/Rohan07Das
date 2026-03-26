@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/fd/c8/e7/fdc8e7325d1b7721762f43d328bbdddf.gif" width="29.1%">
   <img src="https://raw.githubusercontent.com/Rohan07Das/Rohan07Das/main/pixel.gif" width="61.9%">
 </p>
-<h1 align="center">Hi there👋, I'm ROHAN 𓅓</h1>
+<h1 align="center">Hi there👋, I'm ROHAN </h1>
 <h3 align="center">Exploring the Intersection of AI, Design, and IOT</h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/Rohan07Das/Rohan07Das/blob/main/dbacb714-f97f-4f26-836c-b48745e2808e.gif">
 

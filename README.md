@@ -33,7 +33,34 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?perline=7&i=python,googlecolaboratory,jupyter,visualstudiocode,androidstudio,flutter,tensorflow,opencv,arduino,googlecloud,adobephotoshop,adobeillustrator,figma,blender" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=python" alt="Python" height="45" width="45" /></a>
+  <a href="https://colab.research.google.com" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory" alt="Google Colab" height="45" width="45" /></a>
+  <a href="https://jupyter.org" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=jupyter" alt="Jupyter" height="45" width="45" /></a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode" alt="VS Code" height="45" width="45" /></a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=androidstudio" alt="Android Studio" height="45" width="45" /></a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=flutter" alt="Flutter" height="45" width="45" /></a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=tensorflow" alt="TensorFlow" height="45" width="45" /></a> 
+  <br /> <a href="https://opencv.org" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=opencv" alt="OpenCV" height="45" width="45" /></a>
+  <a href="https://www.arduino.cc" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=arduino" alt="Arduino" height="45" width="45" /></a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=googlecloud" alt="Google Cloud" height="45" width="45" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=adobephotoshop" alt="Adobe Photoshop" height="45" width="45" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=adobeillustrator" alt="Adobe Illustrator" height="45" width="45" /></a>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=figma" alt="Figma" height="45" width="45" /></a>
+  <a href="https://www.blender.org" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=blender" alt="Blender" height="45" width="45" /></a>
 </p>
 
 

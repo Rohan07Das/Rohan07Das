@@ -41,16 +41,17 @@
     <img src="https://skills.syvixor.com/api/icons?i=jupyter" alt="Jupyter" height="45" width="45" /></a>
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode" alt="VS Code" height="45" width="45" /></a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://skills.syvixor.com/api/icons?i=androidstudio" alt="Android Studio" height="45" width="45" /></a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://skills.syvixor.com/api/icons?i=flutter" alt="Flutter" height="45" width="45" /></a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=tailwindcss" alt="Tailwind CSS" height="45" width="45" /></a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=nodejs" alt="Node.js" height="45" width="45" /></a>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=tensorflow" alt="TensorFlow" height="45" width="45" /></a> 
-  <br /> <a href="https://opencv.org" target="_blank">
-    <img src="https://skills.syvixor.com/api/icons?i=opencv" alt="OpenCV" height="45" width="45" /></a>
+  <br />
   <a href="https://www.arduino.cc" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=arduino" alt="Arduino" height="45" width="45" /></a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=mongodb" alt="MongoDB" height="45" width="45" /></a>
   <a href="https://cloud.google.com" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=googlecloud" alt="Google Cloud" height="45" width="45" /></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">

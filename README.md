@@ -28,9 +28,7 @@
        src="https://skills.syvixor.com/api/icons?perline=7&i=discord"
        alt="https://discord.com/users/1475742442836983902"
        height="40"
-       width="40" />
-</a>
-
+       width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>

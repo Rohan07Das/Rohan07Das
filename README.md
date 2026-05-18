@@ -16,13 +16,19 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohan-lal-das-87b1332a5" target="blank"><img align="center" src="https://skills.syvixor.com/api/icons?perline=7&i=linkedin" alt="https://www.linkedin.com/in/rohan-lal-das-87b1332a5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohan-lal-das-87b1332a5" target="blank"><img align="center" src="https://skills.syvixor.com/api/icons?perline=7&i=linkedin" alt="https://www.linkedin.com/in/rohan-lal-das-87b1332a5" height="35" width="35" /></a>
+  <a href="https://www.matiks.com/profile/rohan_7" target="_blank">
+  <img align="center"
+       src="https://play-lh.googleusercontent.com/Od-mPEJ1P3RG3OSF8Yk4fDalav4SmWE4hR5M-4vQmT1Vt3OqzXGthY-IRPXwF0ts2VzrBUiFvzUCLUIHGwVJHw"
+       alt="https://www.matiks.com/profile/rohan_7"
+       height="35"
+       width="35" /></a>
   <a href="https://discord.com/users/1475742442836983902" target="_blank">
   <img align="center"
        src="https://skills.syvixor.com/api/icons?perline=7&i=discord"
-       alt="Discord"
-       height="30"
-       width="40" />
+       alt="https://discord.com/users/1475742442836983902"
+       height="35"
+       width="35" />
 </a>
 
 </p>

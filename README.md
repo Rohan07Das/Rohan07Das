@@ -6,7 +6,6 @@
 <h3 align="center">Exploring the Intersection of AI, Design, and IOT</h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/Rohan07Das/Rohan07Das/blob/main/dbacb714-f97f-4f26-836c-b48745e2808e.gif">
 
-
 - 🔭 Currently working on **AI / ML projects using Python (Computer Vision & Deep Learning)**
 - 🌱 Actively exploring **AI/ML and UI/UX Design**
 - 🧠 Strong foundation in **MATLAB, Embedded Systems, and IoT-based automation**

@@ -63,7 +63,6 @@
     <img src="https://skills.syvixor.com/api/icons?i=blender" alt="Blender" height="45" width="45" /></a>
 </p>
 
-
 <table>
   <tr>
     <!-- GitHub Stats -->

@@ -75,12 +75,14 @@
     <td valign="top" width="50%">
       <h3>⏱️ Project Effort Timeline</h3>
  
+**⚡AC-DC Power Supply With bidirectional Power Flow Control**
+░░░░░░░░░░░░░░░░░░░░░░░░█ 98% ~3.4 Weeks
 
-**🔧 Insulator Detection (YOLOv4 + SqueezeNet)**  
-░░░░░░░░░░░░░░░░░░░░░░░░█ 96% ~2 Weeks
+**📷Insulator fault Detection & classification (YOLO)**  
+░░░░░░░░░░░░░░░░░░░░░░░██ 96% ~2.5 Weeks
 
-**🚗 Smart Vehicle Parking System Using Arduino**  
-░░░░░░░░░░░░░░░░░░░░░░░██ 92% ~1 Weeks
+**🛠️ML Based Solar Panel Dust Detecting & Cleaning System**  
+░░░░░░░░░░░░░░░░░░░░░░███ 92% ~1.2 Weeks
     </td>
   </tr>
 </table>

@@ -75,13 +75,13 @@
     <td valign="top" width="50%">
       <h3>⏱️ Project Effort Timeline</h3>
  
-**⚡AC-DC Power Supply With bidirectional Power Flow Control**
+**⚡AC-DC Power Supply With bidirectional Power Flow Control** <br>
 ░░░░░░░░░░░░░░░░░░░░░░░░█ 98% ~3.4 Weeks
 
-**📷Insulator fault Detection & classification (YOLO)**  
+**📷Insulator fault Detection & classification (YOLO)** <br>
 ░░░░░░░░░░░░░░░░░░░░░░░██ 96% ~2.5 Weeks
 
-**🛠️ML Based Solar Panel Dust Detecting & Cleaning System**  
+**🛠️ML Based Solar Panel Dust Detecting & Cleaning System** <br> 
 ░░░░░░░░░░░░░░░░░░░░░░███ 92% ~1.2 Weeks
     </td>
   </tr>
